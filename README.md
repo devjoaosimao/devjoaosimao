@@ -1,5 +1,3 @@
-# **🦇Fullstack Developer**
-
 # **💻Languages:**
 
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"/> <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white"/>
